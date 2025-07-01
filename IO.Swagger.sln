@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO.Swagger", "src\IO.Swagger\IO.Swagger.csproj", "{5BED7F7E-38E5-4F0E-9463-5383BFAC3A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMath", "TestMath\TestMath.csproj", "{74AFAD0A-2CE0-4A6B-BB8B-FAEE98E7AD64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BED7F7E-38E5-4F0E-9463-5383BFAC3A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BED7F7E-38E5-4F0E-9463-5383BFAC3A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BED7F7E-38E5-4F0E-9463-5383BFAC3A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BED7F7E-38E5-4F0E-9463-5383BFAC3A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74AFAD0A-2CE0-4A6B-BB8B-FAEE98E7AD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74AFAD0A-2CE0-4A6B-BB8B-FAEE98E7AD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74AFAD0A-2CE0-4A6B-BB8B-FAEE98E7AD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74AFAD0A-2CE0-4A6B-BB8B-FAEE98E7AD64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F64EF93-524A-43B4-90B1-A9684E315980}
+	EndGlobalSection
+EndGlobal

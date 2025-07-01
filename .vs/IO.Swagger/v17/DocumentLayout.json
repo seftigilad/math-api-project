@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jivan\\source\\repos\\aspnetcore-server-generated\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BED7F7E-38E5-4F0E-9463-5383BFAC3A5F}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\jivan\\source\\repos\\aspnetcore-server-generated\\src\\io.swagger\\controllers\\defaultapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BED7F7E-38E5-4F0E-9463-5383BFAC3A5F}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\controllers\\defaultapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BED7F7E-38E5-4F0E-9463-5383BFAC3A5F}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\jivan\\source\\repos\\aspnetcore-server-generated\\src\\io.swagger\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BED7F7E-38E5-4F0E-9463-5383BFAC3A5F}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BED7F7E-38E5-4F0E-9463-5383BFAC3A5F}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\jivan\\source\\repos\\aspnetcore-server-generated\\src\\io.swagger\\models\\apimathbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BED7F7E-38E5-4F0E-9463-5383BFAC3A5F}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\models\\apimathbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AFAD0A-2CE0-4A6B-BB8B-FAEE98E7AD64}|TestMath\\TestMath.csproj|c:\\users\\jivan\\source\\repos\\aspnetcore-server-generated\\testmath\\mathapitests .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AFAD0A-2CE0-4A6B-BB8B-FAEE98E7AD64}|TestMath\\TestMath.csproj|solutionrelative:testmath\\mathapitests .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BED7F7E-38E5-4F0E-9463-5383BFAC3A5F}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\jivan\\source\\repos\\aspnetcore-server-generated\\src\\io.swagger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BED7F7E-38E5-4F0E-9463-5383BFAC3A5F}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BED7F7E-38E5-4F0E-9463-5383BFAC3A5F}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\jivan\\source\\repos\\aspnetcore-server-generated\\src\\io.swagger\\io.swagger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BED7F7E-38E5-4F0E-9463-5383BFAC3A5F}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\io.swagger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BED7F7E-38E5-4F0E-9463-5383BFAC3A5F}|src\\IO.Swagger\\IO.Swagger.csproj|c:\\users\\jivan\\source\\repos\\aspnetcore-server-generated\\src\\io.swagger\\io.swagger.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5BED7F7E-38E5-4F0E-9463-5383BFAC3A5F}|src\\IO.Swagger\\IO.Swagger.csproj|solutionrelative:src\\io.swagger\\io.swagger.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MathApiTests .cs",
+              "DocumentMoniker": "C:\\Users\\jivan\\source\\repos\\aspnetcore-server-generated\\TestMath\\MathApiTests .cs",
+              "RelativeDocumentMoniker": "TestMath\\MathApiTests .cs",
+              "ToolTip": "C:\\Users\\jivan\\source\\repos\\aspnetcore-server-generated\\TestMath\\MathApiTests .cs",
+              "RelativeToolTip": "TestMath\\MathApiTests .cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAmwFUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:48:35.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IO.Swagger",
+              "DocumentMoniker": "C:\\Users\\jivan\\source\\repos\\aspnetcore-server-generated\\src\\IO.Swagger\\IO.Swagger.csproj",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\IO.Swagger.csproj",
+              "ToolTip": "C:\\Users\\jivan\\source\\repos\\aspnetcore-server-generated\\src\\IO.Swagger\\IO.Swagger.csproj",
+              "RelativeToolTip": "src\\IO.Swagger\\IO.Swagger.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-01T07:57:16.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jivan\\source\\repos\\aspnetcore-server-generated\\src\\IO.Swagger\\Program.cs",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\Program.cs",
+              "ToolTip": "C:\\Users\\jivan\\source\\repos\\aspnetcore-server-generated\\src\\IO.Swagger\\Program.cs",
+              "RelativeToolTip": "src\\IO.Swagger\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:44:17.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\jivan\\source\\repos\\aspnetcore-server-generated\\src\\IO.Swagger\\Startup.cs",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\Startup.cs",
+              "ToolTip": "C:\\Users\\jivan\\source\\repos\\aspnetcore-server-generated\\src\\IO.Swagger\\Startup.cs",
+              "RelativeToolTip": "src\\IO.Swagger\\Startup.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:42:11.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiMathBody.cs",
+              "DocumentMoniker": "C:\\Users\\jivan\\source\\repos\\aspnetcore-server-generated\\src\\IO.Swagger\\Models\\ApiMathBody.cs",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\Models\\ApiMathBody.cs",
+              "ToolTip": "C:\\Users\\jivan\\source\\repos\\aspnetcore-server-generated\\src\\IO.Swagger\\Models\\ApiMathBody.cs",
+              "RelativeToolTip": "src\\IO.Swagger\\Models\\ApiMathBody.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAzwCsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:37:49.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DefaultApi.cs",
+              "DocumentMoniker": "C:\\Users\\jivan\\source\\repos\\aspnetcore-server-generated\\src\\IO.Swagger\\Controllers\\DefaultApi.cs",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\Controllers\\DefaultApi.cs",
+              "ToolTip": "C:\\Users\\jivan\\source\\repos\\aspnetcore-server-generated\\src\\IO.Swagger\\Controllers\\DefaultApi.cs",
+              "RelativeToolTip": "src\\IO.Swagger\\Controllers\\DefaultApi.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAwEYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:35:54.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IO.Swagger",
+              "DocumentMoniker": "C:\\Users\\jivan\\source\\repos\\aspnetcore-server-generated\\src\\IO.Swagger\\IO.Swagger.csproj",
+              "RelativeDocumentMoniker": "src\\IO.Swagger\\IO.Swagger.csproj",
+              "ToolTip": "C:\\Users\\jivan\\source\\repos\\aspnetcore-server-generated\\src\\IO.Swagger\\IO.Swagger.csproj",
+              "RelativeToolTip": "src\\IO.Swagger\\IO.Swagger.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-01T07:35:16.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

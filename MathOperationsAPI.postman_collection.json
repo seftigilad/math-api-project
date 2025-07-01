@@ -1,0 +1,168 @@
+{
+	"info": {
+		"_postman_id": "c83386c5-cbef-4f16-84e4-07e026e1a53c",
+		"name": "MathOperationsAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "10165909"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Unauthorized Request",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "X-ArithmeticOp-ID",
+						"value": "add",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"operation\": \"add\",\r\n  \"x\": 1,\r\n  \"y\": 2\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:50352/api/math",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "50352",
+					"path": [
+						"api",
+						"math"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cache Miss",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "X-ArithmeticOp-ID",
+						"value": "add",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"operation\": \"add\",\r\n  \"x\": 1,\r\n  \"y\": 2\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:50352/api/math",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "50352",
+					"path": [
+						"api",
+						"math"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cache Hit",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "X-ArithmeticOp-ID",
+						"value": "add",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"operation\": \"add\",\r\n  \"x\": 1,\r\n  \"y\": 2\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:50352/api/math",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "50352",
+					"path": [
+						"api",
+						"math"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Division by Zero",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0ZXN0IiwiZXhwIjoyMDUxMzcyNTU2LCJpc3MiOiJ5b3VyYXBwIiwiYXVkIjoieW91cmFwcCJ9.JDOJ-g8BmUS-QFk2K2mWLYNz2Vr0nE0IIudzPGrcUSs",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "X-ArithmeticOp-ID",
+						"value": "divide",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"operation\": \"divide\",\r\n  \"x\": 5,\r\n  \"y\": 0\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:50352/api/math",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "50352",
+					"path": [
+						"api",
+						"math"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
